@@ -13,7 +13,7 @@ $(document).ready(function () {
     $("#outputDiv").hide();
     console.log("user clicked dogeTwo 2");
     $("#outputMsg").text(
-    <strong>   "you have WOW and congratulations! for choosing the correct one!"</strong> 
+      "you have WOW and congratulations! for choosing the correct one!"
     );
     $("#outputDiv").toggle();
   });
