@@ -5,7 +5,7 @@ $(document).ready(function () {
     $("#outputDiv").hide();
 
     console.log("user clicked dogeOne 2");
-    $("#outputMsg").text("Incorrect one, please try agian");
+    $("#outputMsg").text("Incorrect one, please try again");
     $("#outputDiv").toggle();
   });
 
