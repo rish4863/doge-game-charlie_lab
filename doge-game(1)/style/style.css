@@ -1,11 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Miniver&display=swap");
 
 body {
-  background-color: red;
+  background-color: beige;
 }
-h3 {
-  font-family: "Arial", cursive;
-}
+
 #outputDiv {
   display: none;
 }
